@@ -1,8 +1,13 @@
-package dev.hanmango_o;
+/***
+ * 인프런 알고리즘
+ * @see https://cote.inflearn.com/contest/10/problem/01-05
+ * @author hanmango-o
+ */
+package com.inflearn;
 
 import java.util.*;
 
-public class Main {
+public class Problem01_05 {
 
     public static void main(String[] args) {
         Scanner stdIn = new Scanner(System.in);
