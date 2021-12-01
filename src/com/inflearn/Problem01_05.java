@@ -1,4 +1,4 @@
-/***
+/**
  * 인프런 알고리즘
  * @see https://cote.inflearn.com/contest/10/problem/01-05
  * @author hanmango-o
